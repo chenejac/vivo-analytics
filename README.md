@@ -39,7 +39,7 @@ A typical workflow is:
 2. Choose either the RDBMS-style Power BI model or one of the focused SPARQL report templates.
 3. Open the appropriate `.pbit` file in Power BI Desktop and configure it to use your VIVO instance and credentials when prompted.
 4. Refresh the data and save the resulting report as a `.pbix` file.
-5. Adapt the queries, model, and visualisations to your local VIVO data and reporting requirements.
+5. Adapt the queries, model, and visualizations to your local VIVO data and reporting requirements.
 
 The supplied `.pbix` files are examples showing what the corresponding templates can produce; for connecting to another VIVO instance, start with the `.pbit` templates.
 
