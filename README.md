@@ -50,7 +50,7 @@ For detailed instructions and background, see the VIVO documentation:
 - [VIVO Data in Power BI](https://wiki.lyrasis.org/spaces/VIVODOC116x/pages/461472832/VIVO+Data+in+Power+BI)
 - [VIVO for Data Analysts](https://wiki.lyrasis.org/spaces/VIVODOC116x/pages/364742364/VIVO+for+Data+Analysts)
 
-The first page explains the Power BI integration in more detail, while the second provides broader background on extracting and analysing VIVO data.
+The first page explains the Power BI integration in more detail, while the second provides broader background on extracting and analyzing VIVO data.
 
 ## License
 
