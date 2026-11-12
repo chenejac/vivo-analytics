@@ -1,6 +1,6 @@
 # Power BI resources for VIVO
 
-This folder contains Power BI templates and example reports for analysing data from a VIVO instance.
+This folder contains Power BI templates and example reports for analyzing data from a VIVO instance.
 
 Two approaches are provided:
 
